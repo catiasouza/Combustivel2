@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "278666635627",
+    "firebase_url": "https://arctic-kiln-227722.firebaseio.com",
+    "project_id": "arctic-kiln-227722",
+    "storage_bucket": "arctic-kiln-227722.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278666635627:android:b0c2895c0dc970e0",
+        "android_client_info": {
+          "package_name": "com.example.combustivel2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278666635627-jdt31pjon0b1hgkmngh2cs4e2spok8vl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.combustivel2",
+            "certificate_hash": "09c7be69daa6a46f6ba37a33e72c29908b573d58"
+          }
+        },
+        {
+          "client_id": "278666635627-3mdo54b900oip2o9gte202unhr7g86au.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrV3LPXKYmLQVc1SLFNCP9QDhBc9G5kDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278666635627-3mdo54b900oip2o9gte202unhr7g86au.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
